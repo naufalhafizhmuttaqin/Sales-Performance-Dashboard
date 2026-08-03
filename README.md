@@ -190,7 +190,3 @@ The Power BI dashboard includes:
 
 - GitHub: https://github.com/naufalhafizhmuttaqin
 - LinkedIn: https://www.linkedin.com/in/naufalhafizhmuttaqin/
-
----
-
-## ⭐ If you find this project useful, consider giving it a star!
